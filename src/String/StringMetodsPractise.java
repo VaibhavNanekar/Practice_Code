@@ -7,5 +7,7 @@ public class StringMetodsPractise {
         String s ="Hello";
         s.concat("World");
         System.out.println(s);
+        System.out.println(s);
+
     }
 }
